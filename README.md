@@ -1,5 +1,3 @@
-# profile-view
-Personal profile
 
 # Hi, I'm Doniyor 👋
 
