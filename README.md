@@ -1,3 +1,6 @@
+# profile-view
+Personal profile
+
 # Hi, I'm Doniyor 👋
 
 I'm a Computer Science graduate (May 2025) based in London, with a strong interest in backend development and Python. I enjoy building practical, real-world applications and continuously improving my problem-solving and software engineering skills.
